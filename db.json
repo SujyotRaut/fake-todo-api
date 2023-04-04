@@ -29,26 +29,6 @@
     { "id": "26", "title": "Item 26", "completed": false },
     { "id": "27", "title": "Item 27", "completed": false },
     { "id": "28", "title": "Item 28", "completed": false },
-    { "id": "29", "title": "Item 29", "completed": false },
-    { "id": "30", "title": "Item 30", "completed": false },
-    { "id": "31", "title": "Item 31", "completed": false },
-    { "id": "32", "title": "Item 32", "completed": false },
-    { "id": "33", "title": "Item 33", "completed": false },
-    { "id": "34", "title": "Item 34", "completed": false },
-    { "id": "35", "title": "Item 35", "completed": false },
-    { "id": "36", "title": "Item 36", "completed": false },
-    { "id": "37", "title": "Item 37", "completed": false },
-    { "id": "38", "title": "Item 38", "completed": false },
-    { "id": "39", "title": "Item 39", "completed": false },
-    { "id": "40", "title": "Item 40", "completed": false },
-    { "id": "41", "title": "Item 41", "completed": false },
-    { "id": "42", "title": "Item 42", "completed": false },
-    { "id": "43", "title": "Item 43", "completed": false },
-    { "id": "44", "title": "Item 44", "completed": false },
-    { "id": "45", "title": "Item 45", "completed": false },
-    { "id": "46", "title": "Item 46", "completed": false },
-    { "id": "47", "title": "Item 47", "completed": false },
-    { "id": "48", "title": "Item 48", "completed": false },
-    { "id": "49", "title": "Item 49", "completed": false }
+    { "id": "29", "title": "Item 29", "completed": false }
   ]
 }
